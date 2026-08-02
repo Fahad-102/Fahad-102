@@ -60,12 +60,6 @@
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadfahadbinjamal&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfahadbinjamal&layout=compact&theme=radical&hide_border=true) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadfahadbinjamal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfahadbinjamal&layout=compact&theme=radical&hide_border=true) |
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfahadbinjamal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
