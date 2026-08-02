@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Muhammad Fahad Jamal 👋
-### 🚀 Full-Stack Developer | Building High-Performance Web Applications
+### 🚀 Full-Stack Developer | Data Analytics & Design Thinking Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=I+build+things+with+JavaScript%2C+React+%26+Node.js;Passionate+about+Modern+Web+Dev;Always+learning+GraphQL+%26+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=BSc+in+CSE+%7C+MSc+in+Data+Analytics;I+build+things+with+JavaScript%2C+React+%26+Node.js;Passionate+about+Modern+Web+Dev+%26+Design+Thinking" alt="Typing SVG" />
 
 <br>
 
@@ -17,8 +17,9 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+I'm a passionate full-stack developer with a solid technical foundation holding a **BSc in CSE** and an **MSc in Data Analytics and Design Thinking for Business**. I enjoy building modern, high-performance web applications that merge robust engineering with user-centric design. 
+
+I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow. Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, data, open-source, or cool tech ideas!
 
 ---
 
