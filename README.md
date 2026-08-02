@@ -34,7 +34,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-fahad-jamal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/MUHAMMADFAHADJM))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com/](https://github.com/Fahad-102/Protfolio-Muhammad-Fahad-Jamal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:muhammadfahadbinjamal@gmail.com)
 
 ---
